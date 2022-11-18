@@ -11,7 +11,7 @@ output:
 
 ## Visualization Example
 
-Blah blah
+Blah blah blah
 
 ```{r, message=FALSE}
 library(tidyverse)
